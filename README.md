@@ -25,13 +25,13 @@ git status
 
 // create new file with text 
 
-echo “This is some random text. Another text blb” >> start.txt
+## echo “This is some random text. Another text blb” >> start.txt
 
 
 
 // read the file
 
-cat start.txt
+## cat start.txt
 
 
 
@@ -41,18 +41,18 @@ This is some random text. Another text blb // output
 
 // add new file 
 
-git add name of the file
+## git add name_of_the_file
 
 
 
 // add all new files 
 
-git add --all
+## git add --all
 
 
 
 // commit the file
 
-git commit -m “this is commit message”
+## git commit -m “this is commit message”
 
 
